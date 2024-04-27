@@ -11,7 +11,7 @@ This file has the code for the frontend of the GUI. It does not actually perform
 This file has the class, Lvl1Analysis, that performs all of the calculations necessary. 
 
 ## Installation
-Download both files into the same directory. 
+Download both files into the same directory and ensure the proper libraries are installed. 
 
 ## How to use
 Either run Lvl1AnalysisGUI.py either within a Python environment or from the command line using the following command:
