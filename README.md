@@ -1,7 +1,7 @@
 # Python GUI For Univariate Analysis
 This is a program written to run a univariate contrast for one task based run for one individual subject. There is additional functionality to set up the data and plot the results. The input data must be in the fmriprepped format and include an events file formatted as described below. 
 
-***By Sam Rosenberg | University of Maryland/University of Rutgers, Newark***
+***By Sam Rosenberg*** | ***University of Maryland - College Park/Rutgers University - Newark***
 
 ## Files
 ### Lvl1AnalysisGUI.py
